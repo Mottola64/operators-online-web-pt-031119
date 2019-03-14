@@ -6,6 +6,7 @@ elsif speed > 60
 else
   FALSE
 end
+end
 
 
 
